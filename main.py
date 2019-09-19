@@ -5,7 +5,7 @@ from record_equilibrium import *
 
 # Partitions for LHS, can be changed
 nparts = 1000
-# A grid of time points
+
 num_samples = 100
 # Range (in days)
 start = 0
